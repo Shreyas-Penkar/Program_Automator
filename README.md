@@ -12,7 +12,7 @@ It will be soon converted to a desktop app :)
 
 ## Steps to RUN:
 
-- Provide path of sublime text in automator.py line 94
+- Provide path of sublime text in open.bat line 1
 - Provide path of folder where your files tobe saved in automator.py line 34
 - Run automator.py and enjoy! :)
 
